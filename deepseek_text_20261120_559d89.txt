@@ -1,0 +1,17 @@
+isp-billing/
+├── config.php
+├── db.sql
+├── index.php              (ড্যাশবোর্ড)
+├── login.php / logout.php
+├── customers.php          (গ্রাহক ব্যবস্থাপনা)
+├── packages.php           (প্যাকেজ)
+├── invoices.php           (বিল তৈরি ও তালিকা)
+├── payments.php           (পেমেন্ট রেকর্ড)
+├── areas.php              (এরিয়া)
+├── reports.php            (রিপোর্ট)
+├── staff.php              (স্টাফ)
+├── includes/
+│   ├── auth.php
+│   ├── header.php
+│   └── footer.php
+└── assets/style.css
